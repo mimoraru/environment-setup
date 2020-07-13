@@ -73,11 +73,3 @@ Test the installation.
 ```bash
 $ docker-compose --version
 ```
-
-
-## asmple_subtitle1
-### Sample_subtitle2
-Explination:
-<code>add code</code>
-`add code`
-
