@@ -1,7 +1,7 @@
 # environment-setup: Linux-Ubuntu
 
-##python setup
+## python setup
 
-###Installing pip for Python 3
+### Installing pip for Python 3
 <code>$ sudo apt update</code>
 
