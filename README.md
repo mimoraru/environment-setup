@@ -3,5 +3,5 @@
 ##python setup
 
 ###Installing pip for Python 3
-<$ sudo apt update>
+<code>$ sudo apt update</code>
 
