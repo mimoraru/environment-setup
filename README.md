@@ -1,3 +1,7 @@
+This repo is created to store the work done with the python head frist book and to ease the environment installation in the feature for the Django REST framework.
+
+# Python head first
+
 # environment-setup: Linux-Ubuntu
 
 ## python setup
