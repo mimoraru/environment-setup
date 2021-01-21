@@ -1,7 +1,7 @@
 # the beer song
 
 word = "bottles"
-for num_bott in range(99, 1, -1):
+for num_bott in range(99, 0, -1):
     print(num_bott, word, " of beer on a shelf")
     print(num_bott, word, " of beer")
     print("take one down")
