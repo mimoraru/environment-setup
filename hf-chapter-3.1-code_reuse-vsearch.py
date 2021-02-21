@@ -1,7 +1,12 @@
+def search_for_word(word: str) -> set:
+    """This funtion will return the vowels found in a word"""
+    vowels = set('aeiou')
+    return vowels.intersection(set(word))
 
-def search4vowels():
-    """Display any vowels in an asked for word"""
-    vow = ['a', 'e', 'i', 'o', 'u']
-    word = input("Provide a word for the program to look for: ")
-    found = set(vow).intersection(set(word))
-    print(found)
+
+def search_for_phrase(phrase: str, letters: str) -> set:
+    """This funtion will return the letters found in a specified phrase"""
+    return set(letters).intersection(set(phrase))
+
+
+print(search_for_phrase('lulu are mere', 'uat'))
